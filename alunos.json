@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "Daniella",
+        "nota": 9,
+        "curso": "QA"
+    },
+    
+    {
+        "nome": "Raphael",
+        "nota": 10,
+        "curso": "DEV"
+    },
+
+    {
+        "nome": "Fernanda",
+        "nota": 8,
+        "curso": "Design"
+    },
+
+    {
+        "nome": "Andre",
+        "nota": 6,
+        "curso": "DEV"
+    },
+
+    {
+        "nome": "Thiago",
+        "nota": 5,
+        "curso": "QA"
+    },
+
+    {
+        "nome": "Valeria",
+        "nota": 7,
+        "curso": "SQL"
+    },
+
+    {
+        "nome": "Manuel",
+        "nota": 7,
+        "curso": "SQL"
+    },
+
+    {
+        "nome": "Mariana",
+        "nota": 7,
+        "curso": "Design"
+    },
+
+    {
+        "nome": "Maristela",
+        "cargo": "Professora",
+        "curso": "Design"
+    },
+
+    {
+        "nome": "Diego",
+        "cargo": "Professor",
+        "curso": ["QA", "Design", "SQL"]
+    }
+
+]
